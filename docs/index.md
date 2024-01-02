@@ -2,7 +2,7 @@
 layout: home
 # 首页部分元素定制
 blog:
-  name: '🌞'
+  name: '🐾'
   motto: hi, welcome to the zhangxinxin blog!
   inspiring:
     - 千万不要因为走得太久，而忘记了我们为什么出发
