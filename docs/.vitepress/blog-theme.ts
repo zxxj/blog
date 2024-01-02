@@ -21,14 +21,14 @@ const blogTheme = getThemeConfig({
   themeColor: 'el-red',
 
   // 文章默认作者
-  author: 'coderzxx',
+  author: 'zhangxinxin',
 
   // 友链
   friend: [
     {
-      nickname: 'coderzxx',
+      nickname: 'zhangxinxin',
       des: '我的github',
-      avatar: '/logo.png',
+      avatar: '/blog/logo.png',
       url: 'https://github.com/zxxj',
     },
   ],

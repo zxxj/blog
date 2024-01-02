@@ -8,10 +8,10 @@ export default defineConfig({
   base: '/blog/',
   extends: blogTheme,
   lang: 'zh-cn',
-  title: 'coderzxx',
+  title: 'zhangxinxin',
   description: '',
   lastUpdated: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/blog/favicon.ico' }]],
   themeConfig: {
     lastUpdatedText: '上次更新于',
     logo: '/logo.png',

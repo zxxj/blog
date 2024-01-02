@@ -2,8 +2,8 @@
 layout: home
 # 首页部分元素定制
 blog:
-  name: '👋 '
-  motto: 欢迎来到coderzxx的学习blog
+  name: '🌞'
+  motto: hi, welcome to the zhangxinxin blog!
   inspiring:
     - 千万不要因为走得太久，而忘记了我们为什么出发
     - 人生就像一场修行，你不可能一开始就修成正果

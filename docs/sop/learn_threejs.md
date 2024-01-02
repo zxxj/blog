@@ -6,7 +6,7 @@ title: threejs
 description: 学习笔记
 cover: '/threejs.avis'
 hiddenCover: true
-author: coderzxx
+author: zhangxinxin
 readingTime: true
 tag:
   - threejs
