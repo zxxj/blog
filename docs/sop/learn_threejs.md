@@ -4,7 +4,7 @@ top: 1
 recommend: 1
 title: threejs
 description: 学习笔记
-cover: '/public/threejs.avis'
+cover: '/threejs.avis'
 hiddenCover: true
 author: coderzxx
 readingTime: true
