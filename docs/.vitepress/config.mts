@@ -5,7 +5,7 @@ import { blogTheme } from './blog-theme';
 
 // Vitepress 默认配置
 export default defineConfig({
-  base: '/my-blog/',
+  base: '/blog/',
   extends: blogTheme,
   lang: 'zh-cn',
   title: 'coderzxx',
