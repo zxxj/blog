@@ -5,11 +5,10 @@ blog:
   name: '🐾'
   motto: hi, welcome to the zhangxinxin blog!
   inspiring:
-    - 千万不要因为走得太久，而忘记了我们为什么出发
-    - 人生就像一场修行，你不可能一开始就修成正果
-    - 无论多么沉重的负担，也不要忘记微笑；无论多么漫长的路程，也不要忘记坚持
-    - 生活的真谛不在繁华，而在于淡泊
+    - 我会努力争取每一天都取得一点进步,我需要回顾昨天,感觉今天比昨天好就足够,一天一点进步,那一辈子该有多少的飞跃.
+    - 保持空杯心态 才能持续不断的进步.
+    - 每天比前一天的自己进步一点点.
   # 设置 inspiringTimeout 可以实现自动切换
-  inspiringTimeout: 2000
+  inspiringTimeout: 3000
   pageSize: 6
 ---
