@@ -18,7 +18,7 @@ const blogTheme = getThemeConfig({
   // },
 
   // 主题色修改
-  themeColor: 'el-red',
+  themeColor: 'vp-yellow',
 
   // 文章默认作者
   author: 'zhangxinxin',
