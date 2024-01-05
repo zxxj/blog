@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // 导入主题的配置
 import { blogTheme } from './blog-theme';
+import { text } from 'stream/consumers';
 
 // Vitepress 默认配置
 export default defineConfig({
@@ -17,6 +18,19 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
+      {
+        text: 'threejs',
+        items: [
+          {
+            text: 'threejs的基础内容',
+            link: '/sop/1.threejs的基础内容/index.md',
+          },
+          {
+            text: '几何体BufferGeometry',
+            link: '/sop/1.threejs的基础内容/index.md',
+          },
+        ],
+      },
       { text: '关于作者', link: 'https://github.com/zxxj' },
     ],
     socialLinks: [
