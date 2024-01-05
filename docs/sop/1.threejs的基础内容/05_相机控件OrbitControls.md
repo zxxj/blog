@@ -91,4 +91,4 @@ control.addEventListener('change', () => renderer.render(scene, camera)); //执�
 
 ## 效果
 
-![](../public/threejs/轨道控制器png.png)
+![](../../public/threejs/轨道控制器png.png)
