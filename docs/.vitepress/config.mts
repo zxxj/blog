@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress';
 
 // 导入主题的配置
 import { blogTheme } from './blog-theme';
-import { text } from 'stream/consumers';
 
 // Vitepress 默认配置
 export default defineConfig({
@@ -27,7 +26,7 @@ export default defineConfig({
           },
           {
             text: '几何体BufferGeometry',
-            link: '/sop/1.threejs的基础内容/index.md',
+            link: '/sop/2.几何体BufferGeometry/index.md',
           },
         ],
       },
