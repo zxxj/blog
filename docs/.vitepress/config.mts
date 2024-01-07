@@ -28,6 +28,10 @@ export default defineConfig({
             text: '几何体BufferGeometry',
             link: '/sop/2.几何体BufferGeometry/index.md',
           },
+          {
+            text: '模型对象与材质对象',
+            link: '/sop/3.模型对象与材质对象/index.md',
+          },
         ],
       },
       { text: '关于作者', link: 'https://github.com/zxxj' },
