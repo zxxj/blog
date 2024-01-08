@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 70
 recommend: 1
 title: 查看threejs自带的几何体顶点

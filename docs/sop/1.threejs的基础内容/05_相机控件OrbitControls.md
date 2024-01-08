@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 86
 recommend: 1
 title: 相机控件OrbitControls

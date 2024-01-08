@@ -32,6 +32,10 @@ export default defineConfig({
             text: '模型对象与材质对象',
             link: '/sop/3.模型对象与材质对象/index.md',
           },
+          {
+            text: '层级模型',
+            link: '/sop/4.层级模型/index.md',
+          },
         ],
       },
       { text: '关于作者', link: 'https://github.com/zxxj' },

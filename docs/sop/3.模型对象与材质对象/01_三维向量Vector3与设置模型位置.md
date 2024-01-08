@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 68
 recommend: 1
 title: 三维向量Vector3与模型位置

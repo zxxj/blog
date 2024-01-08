@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 90
 recommend: 1
 title: threejs的引入方式

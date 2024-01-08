@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 67
 recommend: 1
 title: 欧拉Euler与角度属性.rotation

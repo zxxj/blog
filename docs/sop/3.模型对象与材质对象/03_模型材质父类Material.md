@@ -1,5 +1,4 @@
 ---
-sticky: 1
 top: 66
 recommend: 1
 title: 模型材质父类Material
