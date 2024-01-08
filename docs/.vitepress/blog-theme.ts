@@ -23,6 +23,13 @@ const blogTheme = getThemeConfig({
   // 文章默认作者
   author: 'zhangxinxin',
 
+  hotArticle: {
+    title: '🔥 精选文章',
+    nextText: '换一组',
+    pageSize: 9,
+    empty: '暂无精选内容',
+  },
+
   // 友链
   friend: [
     {
