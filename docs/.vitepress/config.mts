@@ -36,6 +36,10 @@ export default defineConfig({
             text: '层级模型',
             link: '/sop/4.层级模型/index.md',
           },
+          {
+            text: '理解几何体顶点UV坐标与设置纹理贴图',
+            link: '/sop/5.几何体顶点UV坐标与纹理贴图/index.md',
+          },
         ],
       },
       { text: '关于作者', link: 'https://github.com/zxxj' },
