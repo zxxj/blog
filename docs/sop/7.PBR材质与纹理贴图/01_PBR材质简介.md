@@ -1,7 +1,7 @@
 ---
 top: 41
 recommend: 1
-title: PBR材质简介
+title: 什么是PBR材质?
 description:
 cover: '/threejs.avis'
 hiddenCover: true

@@ -34,6 +34,10 @@ new THREE.MeshStandardMaterial({
 mesh.material.metalness = 1.0; //金属度
 ```
 
+## 效果
+
+![](../../public/threejs/设置金属度.gif)
+
 ## 粗糙度 roughness
 
 > 生活中不同物体表面的粗糙度程度会有不同,比如地面比较粗糙,比如镜子表面比较光滑等等
@@ -50,4 +54,35 @@ new THREE.MeshStandardMaterial({
 
 ```js
 mesh.material.roughness = 0.5; //表面粗糙度
+```
+
+## 效果
+
+![](../../public/threejs/设置粗糙度.gif)
+
+## 完整代码
+
+```js
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const loader = new GLTFLoader(); // 创建GLTF加载器
+
+const group = new THREE.Group(); // 声明一个组对象,用来添加加载成功的三维场景
+
+loader.load('../金属.glb', (gltf) => {
+  // 递归遍历所有模型节点并批量修改材质
+  gltf.scene.traverse((item) => {
+    if (item.isMesh) {
+      console.log(item.material);
+      // 重新设置材质的金属度和粗糙度属性
+      item.material.metalness = 1.0; //金属度
+      item.material.roughness = 0.3; //表面粗糙度
+    }
+  });
+
+  group.add(gltf.scene);
+});
+
+export default group;
 ```
