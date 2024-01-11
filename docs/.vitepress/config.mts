@@ -44,6 +44,10 @@ export default defineConfig({
             text: '加载外部三维模型(gltf)',
             link: '/sop/6.加载外部三维模型(gltf)/index.md',
           },
+          {
+            text: 'PBR材质与纹理贴图',
+            link: '/sop/7.PBR材质与纹理贴图/index.md',
+          },
         ],
       },
       { text: '关于作者', link: 'https://github.com/zxxj' },
