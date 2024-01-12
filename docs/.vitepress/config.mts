@@ -48,6 +48,10 @@ export default defineConfig({
             text: 'PBR材质与纹理贴图',
             link: '/sop/7.PBR材质与纹理贴图/index.md',
           },
+          {
+            text: '渲染器和前端UI界面相关',
+            link: '/sop/8.渲染器和前端UI界面/index.md',
+          },
         ],
       },
       { text: '关于作者', link: 'https://github.com/zxxj' },

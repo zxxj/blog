@@ -2,7 +2,7 @@
 top: 40
 recommend: 1
 title: PBR材质金属度和粗糙度
-description:
+description: 了解PBR材质如何设置金属度和粗糙度
 cover: '/threejs.avis'
 hiddenCover: true
 author: zhangxinxin

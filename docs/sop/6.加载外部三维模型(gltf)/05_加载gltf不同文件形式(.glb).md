@@ -2,7 +2,7 @@
 top: 47
 recommend: 1
 title: 加载gltf不同文件形式(.glb)
-description:
+description: 了解模型有哪几种文件格式与如何加载不同的文件格式
 cover: '/threejs.avis'
 hiddenCover: true
 author: zhangxinxin

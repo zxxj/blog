@@ -2,7 +2,7 @@
 top: 37
 recommend: 1
 title: 设置MeshPhysicalMaterial清漆层
-description:
+description: 了解如何设置并向模型上添加清漆层,实现更真实的效果
 cover: '/threejs.avis'
 hiddenCover: true
 author: zhangxinxin

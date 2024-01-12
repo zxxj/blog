@@ -2,7 +2,7 @@
 top: 41
 recommend: 1
 title: 什么是PBR材质?
-description:
+description: 理解PBR材质的作用
 cover: '/threejs.avis'
 hiddenCover: true
 author: zhangxinxin
