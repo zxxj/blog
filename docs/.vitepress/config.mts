@@ -54,6 +54,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: 'Vue',
+        items: [
+          {
+            text: 'Vue3中异步组件的理解',
+            link: '/vuejs/异步组件的正确打开方式.md',
+          },
+        ],
+      },
       { text: '关于作者', link: 'https://github.com/zxxj' },
     ],
     socialLinks: [
