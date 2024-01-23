@@ -23,8 +23,8 @@ tag:
 > 可以用顶点索引 index 数据构建几何体,也可以不用,threejs 默认的大部分几何体都有三角形的顶点索引数据,具体可以通过浏览器控制台打印几何体数据查看.
 
 ```js
-const geometry = new THREE.PlaneGeometry(100, 50); //矩形平面几何体
-// const geometry = new THREE.BoxGeometry(50,50,50); //长方体
+const geometry = new THREE.PlaneGeometry(100, 50); // 矩形平面几何体
+// const geometry = new THREE.BoxGeometry(50,50,50); // 长方体
 
 console.log('几何体', geometry);
 console.log('顶点位置数据', geometry.attributes.position);
