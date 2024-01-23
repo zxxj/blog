@@ -12,7 +12,7 @@ tag:
   - threejs
 ---
 
-**点模型 Points、线模型 Line、网格网格模型 Mesh 等模型对象的父类都是 Object3D (opens new window),如果想对这些模型进行旋转、缩放、平移等操作,如何实现,可以查询 Threejs 文档 Object3D (opens new window)对相关属性和方法的介绍。**
+**点模型 Points、线模型 Line、网格网格模型 Mesh 等模型对象的父类都是 Object3D (opens new window),如果想对这些模型进行旋转、缩放、平移等操作,如何实现,可以查询 Threejs 文档 Object3D (opens new window)对相关属性和方法的介绍**
 
 ![](../../public/threejs/父类object.jpg)
 
