@@ -18,6 +18,15 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       {
+        text: '我的作品',
+        items: [
+          {
+            text: '粮仓基地预警',
+            link: '/粮仓基地预警项目/index.md',
+          },
+        ],
+      },
+      {
         text: 'threejs',
         items: [
           {
