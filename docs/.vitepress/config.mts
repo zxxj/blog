@@ -64,6 +64,15 @@ export default defineConfig({
         ],
       },
       {
+        text: 'React',
+        items: [
+          {
+            text: 'Hooks',
+            link: '/react/01_hooks.md',
+          },
+        ],
+      },
+      {
         text: 'Vue',
         items: [
           {
