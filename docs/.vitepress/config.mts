@@ -73,6 +73,15 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Nestjs',
+        items: [
+          {
+            text: '使用Nest.js脚手架创建项目',
+            link: '/nestjs/01_创建项目.md',
+          },
+        ],
+      },
+      {
         text: 'Vue',
         items: [
           {
