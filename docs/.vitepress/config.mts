@@ -26,6 +26,15 @@ export default defineConfig({
           },
         ],
       },
+           {
+        text: 'Java',
+        items: [
+          {
+            text: '类与对象',
+            link: '/java/01_类与对象.md',
+          },
+        ],
+      },
       {
         text: 'threejs',
         items: [
