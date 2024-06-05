@@ -33,6 +33,14 @@ export default defineConfig({
             text: '类与对象',
             link: '/java/01_类与对象.md',
           },
+                 {
+            text: '如何定义类?',
+            link: '/java/02_如何定义类?.md',
+          },
+                 {
+            text: '对象的创建与使用',
+            link: '/java/03_对象的创建与使用.md',
+          },
         ],
       },
       {
