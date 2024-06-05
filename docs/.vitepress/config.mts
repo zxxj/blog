@@ -35,7 +35,7 @@ export default defineConfig({
           },
                  {
             text: '如何定义类?',
-            link: '/java/02_如何定义类?.md',
+            link: '/java/02_如何定义类.md',
           },
                  {
             text: '对象的创建与使用',
